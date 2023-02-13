@@ -1,5 +1,5 @@
 # The Carpate Show
-***
+
 
 Hello there,
 
@@ -17,10 +17,10 @@ The design of this page is realized with :
 * PHP to generate dynamically the cards
 
 ## Requirements
-***
+
 1. Use the **bdd.sql** file to copy tables and **SQL queries**
 2. Use **XAMPP** or **MAMPP** to start the **Apache** server 
 
 ## Below a gif allowing to realize the design and the functionality of the web page
-***
+
 ![](./asset/images/animationgif.gif)
